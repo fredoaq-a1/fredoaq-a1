@@ -1,32 +1,38 @@
 ## 🚀 About Me
 # Hi, I'm Alfredo Aquino 👋
 
-Data Scientist | Python | SQL | Machine Learning
+### Experienced Tech Support Engineer transitioning into Data Science
 
-Experienced IT Support Professional transitioning into Data Science after completing an intensive bootcamp and I'm currently building projects focused on:
+I'm leveraging years of technical problem-solving experience to build data-driven solutions through analytics and machine learning.
+
+Currently building projects focused on:
 
 - Machine Learning
 - Data Analysis
 - Predictive Modeling
 - Business Intelligence
 
-## Technologies
+---
 
-Python
-Pandas
-NumPy
-Scikit-Learn
-SQL
-Power BI
-Git
-Jupyter
+## 🛠️ Technologies
 
-## Featured Projects
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- SQL
+- Power BI
+- Git
+- Jupyter Notebook
 
-Customer Churn Prediction
+---
 
-Credit Risk Model
+## 📫 Contact
 
-Sales Forecasting
+📧 **Email:** fredo.aq@gmail.com
 
-Telecom Plans
+💼 **LinkedIn:** https://www.linkedin.com/in/alfredo-aquino-alvarado-a3737997/
+
+---
+
+⭐ *Open to Data Scientist, Data Analyst, and Machine Learning opportunities.*
