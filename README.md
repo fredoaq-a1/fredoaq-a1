@@ -1,4 +1,4 @@
-## 🚀 About Me
+## About Me:
 # Hi, I'm Alfredo Aquino 👋
 
 ### Experienced Tech Support Engineer transitioning into Data Science
