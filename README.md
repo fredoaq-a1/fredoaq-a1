@@ -1,16 +1,32 @@
-## Hi there 👋
+## 🚀 About Me
+# Hi, I'm Alfredo Aquino 👋
 
-<!--
-**fredoaq-a1/fredoaq-a1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist | Python | SQL | Machine Learning
 
-Here are some ideas to get you started:
+Experienced IT Support Professional transitioning into Data Science after completing an intensive bootcamp and I'm currently building projects focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Machine Learning
+- Data Analysis
+- Predictive Modeling
+- Business Intelligence
+
+## Technologies
+
+Python
+Pandas
+NumPy
+Scikit-Learn
+SQL
+Power BI
+Git
+Jupyter
+
+## Featured Projects
+
+Customer Churn Prediction
+
+Credit Risk Model
+
+Sales Forecasting
+
+Telecom Plans
